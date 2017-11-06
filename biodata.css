@@ -45,7 +45,13 @@ p {
   font-family: Verdana, Geneva, sans-serif;
   font-size: 90%;
   color: dimgray;
-  text-align=center;
+  text-align=justify;
+}
+ul {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 90%;
+  color: dimgray;
+  text-align=justify;
 }
 
 table {
@@ -165,6 +171,11 @@ table tr:hover td {
 .miring {
 -webkit-transform: rotate(88deg);
 -moz-transform: rotate(88deg);
+}
+
+.miring1 {
+-webkit-transform: rotate(90deg);
+-moz-transform: rotate(90deg);
 }
 
 </style>
