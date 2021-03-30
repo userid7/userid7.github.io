@@ -3,7 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "723a55295dddca2dbe9c14908ab0551c",
+  "assets/AssetManifest.json": "fc23e38b91939acb19977ed6b2eca701",
+"assets/assets/galleries/20170908_193337.jpg": "bd76c3d31a975b827079723898cb56b1",
+"assets/assets/galleries/20170928_154216.jpg": "f2316a3fbae8a85dda0537ce278b6710",
+"assets/assets/galleries/20181002_010419.jpg": "a78b08005e270c93fce7fc9cd590b9dc",
+"assets/assets/galleries/20190116_180818.jpg": "61d2931f9dd2206973fee2503490b89b",
+"assets/assets/galleries/20200314_174000.jpg": "a4819808be78a9bab0637252b745cd18",
+"assets/assets/galleries/20210117_171722.jpg": "1d07c053ab40f97e08d0f92ecd0056fe",
+"assets/assets/galleries/20210125_173820.jpg": "d5129338de80ea11c761a9b7d6fe1e27",
+"assets/assets/galleries/project-htf-web.png": "b35978c9aa378237e1865bbb0f0545df",
+"assets/assets/galleries/project-kri2018.jpg": "06dfbb2ae46bcacab089a771bd4a08eb",
 "assets/assets/icons/Arduino_Uno_logo.png": "1bee20c70255e334de5ea70d3de6ba95",
 "assets/assets/icons/aws-logo.png": "dd56ce3af6d80be706ebf1f43832a489",
 "assets/assets/icons/aws.png": "87e471e4c28d023c6efc3e0f5b1a6026",
@@ -76,9 +85,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "204d90cd9d6727fe93bc26a0effefb94",
-"/": "204d90cd9d6727fe93bc26a0effefb94",
-"main.dart.js": "fee742a548a49ce8f2999b9b8956cf14",
+"index.html": "28ed99e8b4b4021d1cb5a3aa637b6b88",
+"/": "28ed99e8b4b4021d1cb5a3aa637b6b88",
+"main.dart.js": "0340aecae55ea6c60a2d4829a427b309",
 "manifest.json": "de758461bf57ce29dc3376b73cbc73bc",
 "version.json": "4dc27284e8c838ac4a1f9c8ffbc86e43"
 };
